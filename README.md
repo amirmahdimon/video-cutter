@@ -38,11 +38,6 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>video-cutter</h1>
-        <p>A free and simple Python script to cut long videos into smaller clips based on timestamps provided in a text file. It uses FFmpeg to efficiently cut the video without re-encoding, making it fast and preserving the original quality.</p>
-    </header>
-
     <section>
         <h2>Prerequisites</h2>
         <ul>
@@ -51,7 +46,6 @@
             <li><strong>tqdm</strong>: A Python library for progress feedback.</li>
         </ul>
     </section>
-
     <section>
         <h2>Installation</h2>
         <ol>
@@ -80,7 +74,6 @@
             </li>
         </ol>
     </section>
-
     <section>
         <h2>Usage</h2>
         <ol>
