@@ -64,7 +64,6 @@
             </li>
         </ol>
     </section>
-
     <section>
         <h2>Notes</h2>
         <ul>
